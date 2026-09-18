@@ -25,7 +25,7 @@ My research focuses on **Generative AI, Computer Vision, Medical Imaging, and De
 📚 2+ years of research experience  
 👩‍🏫 2 years of university teaching experience
 
----
+
 
 ## 🔬 What I'm Working On
 
@@ -40,7 +40,7 @@ My current interests include:
 - 🌱 Sustainable and energy-efficient AI
 - 🔬 Emerging approaches beyond conventional AI computing
 
----
+
 
 ## ⭐ Research Highlights
 
@@ -57,7 +57,7 @@ Research on using **diffusion models for medical image augmentation** and diabet
 
 📄 https://link.springer.com/chapter/10.1007/978-981-97-3559-4_17
 
----
+
 
 ### ⚡ ProdNet: A Lightweight Network for Fast Discovery of Matrix Multiplication Algorithms
 
@@ -70,7 +70,7 @@ Research project focused on discovering efficient matrix multiplication algorith
 
 📄 https://link.springer.com/chapter/10.1007/978-3-032-21585-7_7
 
----
+
 
 ### 🧬 Diffusion Models in Medical Imaging
 
@@ -89,7 +89,7 @@ Topics include:
 - Image reconstruction
 - Disease-related imaging applications
 
----
+
 
 ## 👩‍🏫 Teaching & Academic Experience
 
@@ -101,7 +101,7 @@ My academic experience combines:
 
 **Research 🔬 + Teaching 👩‍🏫 + Engineering 💻**
 
----
+
 
 ## 🛠️ Technical Interests
 
@@ -117,7 +117,7 @@ My academic experience combines:
 ### Research
 `Scientific Writing` `Literature Review` `Experimental Research` `Data Analysis`
 
----
+
 
 ## 📚 Publications
 
@@ -135,7 +135,7 @@ A lightweight approach for discovering efficient matrix multiplication algorithm
 
 🔗 https://link.springer.com/chapter/10.1007/978-3-032-21585-7_7
 
----
+
 
 ## 🎓 Education
 
@@ -146,7 +146,7 @@ A lightweight approach for discovering efficient matrix multiplication algorithm
 
 🏆 Thesis Grade: **19/20 — Honor Mark**
 
----
+
 
 ## 🤝 Collaboration
 
@@ -162,13 +162,13 @@ I’m interested in collaborating on research and projects involving:
 
 If you're working on something interesting in these areas, feel free to reach out.
 
----
+
 
 ## 📊 GitHub Stats
 
 ![Chemousse's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
 
----
+
 
 ## 📫 Let's Connect
 
