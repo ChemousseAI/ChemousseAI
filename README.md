@@ -2,9 +2,12 @@
 
 ## 🤖 AI Engineer & AI Researcher building intelligent systems
 
-📍 Algeria  
+📍 Algeria
+
 📧 Email: berdjouhchemousse01@gmail.com 
+
 🔗 LinkedIn: https://linkedin.com/in/berdjouhchemousse
+
 💻 GitHub: https://github.com/ChemousseAI
 
 ---
