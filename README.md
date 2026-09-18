@@ -2,11 +2,10 @@
 
 ## 🤖 AI Engineer & AI Researcher building intelligent systems
 
-📍 Ouargla, Algeria  
-📧 Email: [your email]  
-🔗 LinkedIn: [your LinkedIn]  
-🌐 Portfolio: [your portfolio]  
-💻 GitHub: [your GitHub]
+📍 Algeria  
+📧 Email: berdjouhchemousse01@gmail.com 
+🔗 LinkedIn: https://linkedin.com/in/berdjouhchemousse
+💻 GitHub: https://github.com/ChemousseAI
 
 ---
 
@@ -16,7 +15,6 @@ I’m an **AI Engineer and AI Researcher** with an MSc in **Artificial Intellige
 
 My research focuses on **Generative AI, Computer Vision, Medical Imaging, and Deep Learning**, with a particular interest in developing AI methods that can address real-world scientific and healthcare challenges.
 
-After completing my MSc, I was invited to continue working with the **LINATI research group** at Kasdi Merbah University, where I have been involved in research activities, scientific writing, manuscript review, and AI research projects.
 
 🎓 MSc in Artificial Intelligence & Data Science  
 🔬 AI Researcher — LINATI Research Group  
@@ -30,16 +28,14 @@ After completing my MSc, I was invited to continue working with the **LINATI res
 
 My current interests include:
 
-- 🧬 Generative AI for scientific and medical applications
+- 🧬 Generative AI 
 - 🩺 AI for Medical Imaging
-- 🖼️ Diffusion Models and synthetic data generation
+- 🖼️ Diffusion Models 
 - 👁️ Computer Vision and medical image analysis
 - 🧠 Deep Learning
 - ⚡ Lightweight and efficient AI architectures
 - 🌱 Sustainable and energy-efficient AI
 - 🔬 Emerging approaches beyond conventional AI computing
-
-I am particularly interested in how **generative models can be used to create high-quality synthetic data and improve AI systems in domains where real-world data is limited.**
 
 ---
 
@@ -56,7 +52,7 @@ Research on using **diffusion models for medical image augmentation** and diabet
 - Presented at **ICICT 2024, London**
 - Published with Springer
 
-📄 [Publication](YOUR_PUBLICATION_LINK)
+📄 https://link.springer.com/chapter/10.1007/978-981-97-3559-4_17
 
 ---
 
@@ -69,7 +65,7 @@ Research project focused on discovering efficient matrix multiplication algorith
 - Designed with a focus on computational efficiency
 - Explores lightweight alternatives to computationally expensive algorithm-discovery approaches
 
-📄 [Publication](YOUR_PUBLICATION_LINK)
+📄 https://link.springer.com/chapter/10.1007/978-3-032-21585-7_7
 
 ---
 
@@ -97,8 +93,6 @@ Topics include:
 Alongside my research activities, I have gained **2 years of teaching experience**.
 
 I worked as a temporary university teacher, teaching **Algorithms and Data Structures practical sessions in C** for first-year Computer Science students.
-
-I have also contributed to teaching Computer Science within the **Natural Sciences curriculum** at the secondary-school level.
 
 My academic experience combines:
 
@@ -129,14 +123,14 @@ My academic experience combines:
 
 Research on diffusion-based data augmentation for diabetic retinopathy grading.
 
-🔗 [Paper](YOUR_LINK)
+🔗 https://link.springer.com/chapter/10.1007/978-981-97-3559-4_17
 
 ### 2. ProdNet: A Lightweight Network for Fast Discovery of Matrix Multiplication Algorithms
 **Springer — 2025**
 
 A lightweight approach for discovering efficient matrix multiplication algorithms.
 
-🔗 [Paper](YOUR_LINK)
+🔗 https://link.springer.com/chapter/10.1007/978-3-032-21585-7_7
 
 ---
 
@@ -148,22 +142,6 @@ A lightweight approach for discovering efficient matrix multiplication algorithm
 🎓 Thesis: **Diffusion Models for Data Augmentation**
 
 🏆 Thesis Grade: **19/20 — Honor Mark**
-
----
-
-## 🌱 Beyond Conventional AI
-
-I am interested in the future of AI beyond simply scaling conventional GPU-based systems.
-
-Some of the areas I follow include:
-
-🧬 Biocomputing  
-🧫 Biological neural systems  
-⚡ Energy-efficient AI  
-🧠 Neuromorphic computing  
-🔬 AI-generated biological systems
-
-I am particularly interested in the intersection of **AI, biology, and sustainable computing**, and in exploring whether fundamentally different computational paradigms can help address the energy challenges associated with modern AI.
 
 ---
 
@@ -191,10 +169,9 @@ If you're working on something interesting in these areas, feel free to reach ou
 
 ## 📫 Let's Connect
 
-📧 **Email:** your@email.com  
-💼 **LinkedIn:** YOUR_LINKEDIN  
-🌐 **Portfolio:** YOUR_PORTFOLIO  
-🐙 **GitHub:** YOUR_GITHUB
+📧 **Email:** berdjouhchemousse01@gmail.com  
+💼 **LinkedIn:** berdjouhchemousse  
+🐙 **GitHub:** ChemousseAI
 
 ---
 
