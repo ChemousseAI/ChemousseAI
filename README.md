@@ -14,9 +14,8 @@
 
 ## 🧠 About Me
 
-I’m an **AI Engineer and AI Researcher** with an MSc in **Artificial Intelligence and Data Science** from **Kasdi Merbah University, Algeria**.
+**Research Engineer** with an MSc in Artificial Intelligence and Data Science and two years of research experience spanning **Generative AI, Computer Vision, Medical Imaging, and efficient machine learning**. Author of two peer-reviewed Springer publications, with experience developing and evaluating deep learning and generative models for **medical image synthesis and algorithm discovery**. Skilled in AI experimentation, model development, scientific computing, and end-to-end research workflows. Interested in advancing **efficient, scalable, and environmentally responsible AI systems** through collaborative research and practical innovation.
 
-My research focuses on **Generative AI, Computer Vision, Medical Imaging, and Deep Learning**, with a particular interest in developing AI methods that can address real-world scientific and healthcare challenges.
 
 
 🎓 MSc in Artificial Intelligence & Data Science  
